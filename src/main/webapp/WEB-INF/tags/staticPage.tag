@@ -37,7 +37,7 @@
                         <li class="${currentPage == 'index' ? 'active' : ''}"><a href="/">Home</a></li>
                         <li class="${currentPage == 'features' ? 'active' : ''}"><a href="features.jsp">Features</a></li>
                         <li class="${currentPage == 'about' ? 'active' : ''}"><a href="about.jsp">About Us</a></li>
-                        <li class="${currentPage == 'contact' ? 'active' : ''}"><a href="contact.jsp">Contact</a></li>
+                     <%--<li class="${currentPage == 'contact' ? 'active' : ''}"><a href="contact.jsp">Contact</a></li>--%>
                         <li class="${currentPage == 'terms' ? 'active' : ''}"><a href="terms.jsp">Terms of Use</a></li>
                     </ul>
                     <form class="navbar-form navbar-right" action="/login" name="login">

@@ -1,4 +1,4 @@
-<%@ taglib tagdir="/WEB-INF/tags" prefix="t" %>
+<%-- <%@ taglib tagdir="/WEB-INF/tags" prefix="t" %>
 <t:staticPage currentPage="contact">
   <main class="container">
     <h1 class="color_orange">
@@ -22,3 +22,4 @@
     </p>
   </main>
 </t:staticPage>
+ --%>

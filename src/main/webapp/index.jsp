@@ -127,4 +127,32 @@
       </p>
     </div>
   </div>
+
+<hr>
+  <div class="row">
+   <style>
+    img {
+    float: left;
+    margin: 0px 0px 15px 20px;
+    }
+   </style>
+    <center>
+     <div class="col-xs-12">
+      <div class="footer_contact-information">
+       <img class="img-responsive" src="images/contact.png">
+       <p>
+        <b><a href="mailto:teammates@comp.nus.edu.sg">teammates@comp.nus.edu.sg</a>: Email us with comments, feature requests, bug reports, etc. We would love to hear from you! 
+       </p>
+       <p>
+        <b><a href="http://teammatesonline.blogspot.sg/">TEAMMATES Blog</a></b>: Connect with other Teammates
+       </p>
+       <p>
+        <b><a href="https://github.com/TEAMMATES/teammates">Developer Website</a></b>: Join us
+       </p>
+      </div>
+     </div>
+    </center>
+  </div>
+
+ </main>
 </t:staticPage>
